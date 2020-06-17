@@ -26,6 +26,7 @@ This is the template for the Product Vision Document that teams complete after t
 ---
 
 - What features are required for your minimum viable product?
+    
     **DS:**
 
     1. Build a model to recommend songs based on similarity to user input (I like song `x`, here are `n` songs like it based on these similar features)
